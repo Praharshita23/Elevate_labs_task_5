@@ -69,7 +69,7 @@ Task 5: Exploratory Data Analysis (EDA)
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
@@ -78,12 +78,12 @@ Task 5: Exploratory Data Analysis (EDA)
 
 ---
 
-## 📁 Files Included
+## Files Included
 - task_5.ipynb
 - task_5_EDA_Report.pdf
 - Dataset file
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 The EDA revealed clear survival patterns based on gender, passenger class, and fare. These insights provide a strong foundation for predictive modeling and further machine learning applications.
